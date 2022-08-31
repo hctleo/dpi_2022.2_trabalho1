@@ -30,6 +30,29 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# image sample
+_image sample
+
+# enhancement
+enhancement_filetrs/results_laplacian_filtering
+enhancement_filetrs/results_prewitt_filter
+enhancement_filetrs/results_sobel_filtering
+
+# threshold
+threshhold/results_multi_th
+threshhold/results_th
+
+# smoothing
+smoothing_filters/results_gaussian_filtering
+smoothing_filters/results_median_filtering
+smoothing_filters/results_mean_filtering
+
+# histogram
+histogram/results_histogram_equalization
+histogram/results_histogram
+
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
